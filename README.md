@@ -7,4 +7,6 @@ Lihat<br>
 - <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/java/com/rizkykhapidsyah/viewandviewsexample__jvm/MainActivity.java">Source Code Program.</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/strings.xml">Data</a><br><br>
 Update:<br>
-- <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/styles.xml">Styles</a>
+- <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/styles.xml">Styles</a><br>
+- <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/colors.xml">Colors</a>
+
