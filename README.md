@@ -5,4 +5,6 @@ Reference by Dicoding. Modified by Rizky Khapidsyah<br><br>
 Lihat<br> 
 - <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/layout/activity_main.xml">Source Code Mark Up.</a><br>
 - <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/java/com/rizkykhapidsyah/viewandviewsexample__jvm/MainActivity.java">Source Code Program.</a><br>
-- <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/strings.xml">Data</a>
+- <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/strings.xml">Data</a><br><br>
+Update:<br>
+- <a href="https://github.com/RizkyKhapidsyah/ViewAndViewsExample__JVm/blob/master/app/src/main/res/values/styles.xml">Styles</a>
